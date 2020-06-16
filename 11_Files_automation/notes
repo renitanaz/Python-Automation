@@ -1,0 +1,9 @@
+this is from "Using Python for Automation" - Madecraft and Sam Pettus - Linkedin
+
+Example.py
+Exercise Files  -------------->  sample files that are used in coding
+get_filenames_infolder.py ----> get name of all the files/folder in a particular path
+Opening_and_reading_file.py --> opena file and read it
+organize_dictionary.py --------> create folder and based on extension add the files to folder
+Script_to_exe_cmd.py ----------> runnign exe code thru code
+write_to_new_file.py ----------> read from a file and write to another

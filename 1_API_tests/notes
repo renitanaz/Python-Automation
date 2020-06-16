@@ -1,0 +1,7 @@
+Step by Step Rest API Testing using Python + Pytest + Allure --->Testing World Infotech --->Udemy
+
+add_customized_header_parameter  ----> adding header
+delete_request 
+Get_Request
+notes
+TestCases_pytestformat_API ----------> API Get_Request TC in pytest format

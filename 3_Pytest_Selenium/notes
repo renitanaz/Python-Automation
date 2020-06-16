@@ -1,0 +1,3 @@
+test_TC01_validateRegistration_skip_skipif ------ skip and skipif
+test_TC01_validateRegistration_grouping.py  ----  grouping TC
+test_TC01_validateRegistration_grouping_fixtures.py ------ Using fixtures
